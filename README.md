@@ -1,5 +1,4 @@
 # Formation
---------
 formation or femconnect is a web app platform for female students to connect and build projects with each other
 --------
 features
