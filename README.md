@@ -8,9 +8,12 @@ features
 - project dashboard
 - group / individual chat
 - upload project
+
+
+
 technologies
-- html/css
-- javascript
+- **html/css
+- **javascript
 - database (backend)
 - node.js / express.js (?)
 - react(?)
