@@ -17,3 +17,6 @@ technologies
 - database (backend)
 - node.js / express.js (?)
 - react(?)
+
+
+possible submission for flawless hacks 2019 hackathon
