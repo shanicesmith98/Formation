@@ -8,6 +8,7 @@ features
 - project dashboard
 - group / individual chat
 - upload project
+- tinder-like matching process
 
 
 
