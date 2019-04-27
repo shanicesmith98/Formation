@@ -1,5 +1,5 @@
 # Formation
-formation or femconnect is a web app platform for female students to connect, build and collaborate on projects
+formation or **femconnect** is a web app platform for female students to connect, build and collaborate on projects
 
 features
 - sign in / login
