@@ -12,8 +12,8 @@ features
 
 
 technologies
-- **html/css
-- **javascript
+- **html/css**
+- **javascript**
 - database (backend)
 - node.js / express.js (?)
 - react(?)
